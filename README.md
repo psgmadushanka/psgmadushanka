@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="github-banner.png" width="100%" alt="Madushanka GitHub Banner">
+</p>
+
 
 # Hi there, I'm Madushanka! 👋
 
@@ -58,9 +62,6 @@ I enjoy learning new technologies and building practical solutions to real-world
 
 ---
 *Always learning. Always building. Always improving.* 🚀
-<p align="center">
-  <img src="github-banner.png" width="100%" alt="Madushanka GitHub Banner">
-</p>
 
 ---
 
