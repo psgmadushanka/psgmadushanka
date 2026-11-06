@@ -62,6 +62,28 @@ I enjoy learning new technologies and building practical solutions to real-world
   <img src="github-banner.png" width="100%" alt="Madushanka GitHub Banner">
 </p>
 
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=psgmadushanka&show_icons=true&theme=merko&hide_border=true&include_all_commits=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=psgmadushanka&layout=compact&theme=merko&hide_border=true" height="165" />
+</p>
+
+## 🔥 Contribution Streak
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=psgmadushanka&theme=dark&hide_border=true&ring=00FF00&fire=00FF00&currStreakLabel=00FF00" />
+</p>
+
+---
+
+<p align="center">
+  <i>Thanks for visiting my GitHub profile!</i> 💚
+</p>
+
+
 
 <!--
 **psgmadushanka/psgmadushanka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
